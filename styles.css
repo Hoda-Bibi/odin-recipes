@@ -1,0 +1,25 @@
+
+* {
+    font-family:'Courier New', Courier, monospace
+}
+
+.link {
+    font-size: 18px;
+    font-weight:bold;
+    color:gray
+}
+
+.cookies {
+    background-color:rgb(222, 196, 163);
+    color: rgb(118, 72, 30);
+}
+
+.hummus {
+    background-color:rgb(245, 239, 220);
+    color: rgb(187, 154, 109);
+}
+
+.cucumber {
+    color: green;
+    background-color: rgb(241, 241, 213);
+}
